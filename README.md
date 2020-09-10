@@ -1,1 +1,1 @@
-# portainer2-templates
+# Self-hosted-template
